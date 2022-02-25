@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general testimony to and for the everlasting truth of God partly intended for my relations and neighbours, that have known me from my childhood in Wishaw &amp; Sutton : wherein there is a short relation of my manner of convincement : and also, some few  of the sufferings which were inflicted upon me by some of the said inhabitants, for my faithful testimony, which I have born for God and his blessed truth.</title>
+            <author>Sommerland, Richard, d. 1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60892</idno>
+            <idno type="STC">Wing S4661</idno>
+            <idno type="STC">ESTC R32705</idno>
+            <idno type="EEBO-CITATION">12747415</idno>
+            <idno type="OCLC">ocm 12747415</idno>
+            <idno type="VID">93288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93288)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1536:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general testimony to and for the everlasting truth of God partly intended for my relations and neighbours, that have known me from my childhood in Wishaw &amp; Sutton : wherein there is a short relation of my manner of convincement : and also, some few  of the sufferings which were inflicted upon me by some of the said inhabitants, for my faithful testimony, which I have born for God and his blessed truth.</title>
+                  <author>Sommerland, Richard, d. 1730.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Signed and dated at end: Richard Sommerland, Wishaw in Warwick-shire, the 1st Mon., 1678.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Apologetic works.</term>
+               <term>Society of Friends --  England --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="testimony">
+            <pb facs="tcp:93288:1"/>
+            <pb n="1" facs="tcp:93288:1" rendition="simple:additions"/>
+            <head>A General TESTIMONY To and For the Everlaſting Truth of God, Partly intended for my Relations and Neighbours, that have known me from my Childhood in <hi>Wiſhaw</hi> &amp; <hi>Sutton.</hi> Wherein there is a ſhort Relation of my Manner of <hi>Convincement.</hi> And alſo, ſome few of the <hi>Sufferings</hi> which were Inflict<g ref="char:EOLhyphen"/>ed upon me by ſome of the ſaid Inhabitants, for my Faithful Teſtimony, which I have born for God and his Bleſſed Truth.</head>
+            <p>FRIENDS and Neighbours, it is in my Heart once to put you in mind of that bleſſed and Everlaſting Truth which I bear Teſtimony unto before you; for it is the ſame that ever it was to all that believe in the Light, and faith<g ref="char:EOLhyphen"/>fully Obey it; I cannot but once more Exhort you unto it, as knowing that there is Sufficiency in it to preſerve out of the Evil, which is the Cauſe of much Sorrow and Trouble, both in this World and in the World to come.</p>
+            <p>In the Year 1660. when it pleaſed the Lord to cauſe his bleſ<g ref="char:EOLhyphen"/>ſed Truth to be preached amongſt us, by a deſpiſed People, in Scorn called <hi>Quakers,</hi> it pleaſed the Lord about that time to raiſe up a Work in my Heart, and much Queſtionings and Rea<g ref="char:EOLhyphen"/>ſonings
+<pb n="2" facs="tcp:93288:2"/>I was beſet withal, and a Warfare inwardly I came to know, <hi>Jacob</hi> and <hi>Eſau</hi> ſtriving in the Womb ſpiritually; then hearing of a Meeting of the aforeſaid People, who by the World did then, as they do at this day, bear that Scornful Name of <hi>Quakers;</hi> The Meeting then to be at <hi>Cardworth,</hi> I was very much preſſed in my Mind thither to go; but ſomething to the putting by that Opportunity at that time preſented it ſelf, inaſmuch as I was diſappointed of my deſire at that time: So then Reaſonings more ſeized upon me, and my Trouble, by reaſon of Sin and Tranſgreſſion, much diſquieted me, inſomuch that I could not follow my outward Imployment, ſo that Sighs and Groans did daily preſs me for the Sins of my Youth, that I was conſtrained to make my Abode in many Deſolate Places, to bewail my Condition in Pits and Ditches, to cry unto the Lord, notwithſtanding my Diligence in imploying my ſelf to run after the beſt of men for Help. Then in the 7th Moneth, in the Year 1660. my Wife being reading in a Book, of a Faithful Friend, was pricked in the Heart, and alſo ſatisfied, that ſhe had been doing that which the Lord did not require of her in the way of Worſhip; when I heard thoſe Expreſſions, I was very much troubled; for it was ſo with me at that time, that I had rather have ſuffered Death, than to have been called a <hi>Quaker;</hi> inaſ<g ref="char:EOLhyphen"/>much as that I durſt not look in a Book, nor go unto a Meeting; but then did the Lord begin to raiſe up his own Work in me, which burned as a Fire, inſomuch that I my ſelf, with many more, did expect nothing but Death to have been the effect of the ſame, but I found it to be the Lord's Work to deſtroy Sin, which was and is the Work of the Devil: Then on the 30th day of the aforeſaid Moneth, the Enemy of my Soul, ſeeing that his King<g ref="char:EOLhyphen"/>dom began to be weakened, to the end that it might be deſtroy<g ref="char:EOLhyphen"/>ed, then did he begin to Rage, and to ſtir me up to take thoſe Books in which my Wife was formerly reading; and I hid them, with an intent that I had to burn them, if my Wife would not go with me on the next Firſt day unto the World's Worſhip, ſo great was my Rage againſt Truth in that day; and in this Lyon-like-Spirit of Fury did I intend to go unto our own Pariſh-Prieſt, to know and to be informed to the utmoſt what he could acquaint
+<pb n="3" facs="tcp:93288:2"/>me withal in that Caſe: But inaſmuch as the Lord did permit me to go on with mine intent and proſecution of this Work, ſometimes going, and ſometimes running in haſte, for fear it ſhould be too late, I was ſmitten in my Breaſt, and the Word of the Lord aroſe in me in the Heat of his Jealouſie, which burned as an Oven, and ſmote as a Hammer, ſaying, <hi>What haſt thou gotten thy ſelf all this while by thy running ſometimes Ten, and ſometimes Twenty Miles in a day, after the Hirelings and Time-ſervers of this Age?</hi> So then I was made to cry out, <hi>Lord! what wilt thou have me to do?</hi> Often could I ſay, <hi>A Wounded Conſcience who can bear?</hi> So that I was made to return in the Tenderneſs of my Soul, and was conſtrained to embrace my dear Wife with this tender Salutation; <hi>Oh! take thy Books again in the Fear of the Living God.</hi> Ah! that was a Day of Glad-Tidings unto my Soul, can I ſay unto you, my near &amp; dear Relations, unto whom this may come, and unto whom theſe Lines may be preſented; for as ſure as the Lord Chriſt Jeſus did appear unto the Woman of <hi>Samaria</hi> even ſo aſſuredly did he appear unto me, yea, in me that Day; Oh! therefore be you warned, and turn unto the God of Life, who hath for his Truth's ſake conſtrained me to viſit you with a Teſtimony in tender Love unto your Souls. And now, my <hi>Dear Relations</hi> and <hi>Neighbours,</hi> unto whom theſe Lines were in the Beginning chiefly directed, and at this inſtant of Time my Soul is in a deep Travel for you before the Lord; I my ſelf being a man that hath known the Terrors of the Lord for Sin and Tranſgreſſion, doth once more in theſe Lines of my Conſtraint, wherein I can ſay of a truth, I am at this time engaged by the Lord in the Bowels of his Love to you-wards, and alſo in regard to the removing of Guilt from my ſelf in the day of the Lords Viſitation of you, which undoubtedly will come upon you, if you turn not unto him; I ſay in his fear, a neceſſity is laid upon me to invite you once more to be reconciled unto the Lord our God, who lives for evermore, and whoſe Truth ſhall yet ſhine as the Sun in the Firmament, and his Name be ſpread over all the Earth. And Friends, I being one whom the Lord hath made ſenſible of a Terrible Day that is at hand, and ſhall try both you as well as my ſelf, and every of us, and that you ſhall not be able
+<pb n="4" facs="tcp:93288:3"/>to eſcape it; it lieth near me this day to lay it before you, that it is high time for you, and greatly needful, that you ſeek within for a better Guide then yet you are aquainted withal; for the day is at hand that will try all Profeſſions that men have invented, and the Coverings they have made; therefore I ſay, turn unto the Lord God, for he alone in that day can ſave.</p>
+            <closer>
+               <signed>R. S.</signed>
+            </closer>
+         </div>
+         <div type="account">
+            <head>A Note of an Account of the <hi>Sufferings</hi> of <hi>Ri<g ref="char:EOLhyphen"/>chard Sommerland</hi> of <hi>Wiſhaw</hi> in <hi>Warwick<g ref="char:EOLhyphen"/>ſhire,</hi> for Truth's ſake, from the Year <hi>1663.</hi> unto this Preſent Year <hi>1678.</hi>
+            </head>
+            <p>FIrſt in the Year 1663. aforeſaid, the ſaid <hi>Richard Sommer<g ref="char:EOLhyphen"/>land</hi> was Perſecuted by one <hi>Jacob Kimberly,</hi> Prieſt of <hi>Cardworth,</hi> and put into <hi>Lichfield</hi> Court, becauſe for Con<g ref="char:EOLhyphen"/>ſcience-ſake to God he could not pay him Tythe and Herbage, and ſo deny Chriſt come in the Fleſh; and ſo becauſe he could not fee a Proctor in the Court, or ſo, they proceeded againſt him, &amp; ſo got him into Priſon, where he remained betwixt Nine or Ten Years: In one Year of which the ſaid Prieſt took away one Load of Hay out of a Meadow, where there was but three; and out of ano<g ref="char:EOLhyphen"/>ther Meadow, where there was but one Load of his, he took all. Alſo, the ſaid <hi>Richard,</hi> the ſpace of about eight Years after he was firſt put in Priſon, as aforeſaid, having ſome Liberty to come to his outward Being, and being about the Town's-Bu<g ref="char:EOLhyphen"/>ſineſs with his Neighbours, was Sworn againſt by four men, for being at a Meeting at <hi>Badgely,</hi> about five Miles off, and fined 9l. 5s. Whereas the Men of the Neighbourhood could teſtifie, <hi>He was with them that day about Buſineſs,</hi> as afore-ſaid; <hi>and the aforeſaid four Swearers were all Forſworn:</hi> O ſad to be conſidered of! Alſo, the ſaid <hi>Richard Sommerland</hi> for ſuffering
+<pb n="5" facs="tcp:93288:3"/>the People of the Lord called <hi>Quakers</hi> to have a Meeting at his Houſe, about the 12th day of the Moneth called <hi>Auguſt,</hi> 1677. to worſhip in Spirit and in Truth, as their holy Cuſtom is, was fined 20l. for which they took Goods at ſeveral times from him worth 33l. At one time they took away four Heifers, and upon another day they took two Mares, one Tumbrel, one pair of Gears, two pair of Hollmes, two Collors, three Bridles, one Belly-band, thirty Cheeſes, two Sacks, and about three Strikes of Mown Corn, one good Feather-bed, one Coverlet, one Rug, one Blanket, three Pillow-bears, three Flaxen Sheets, one Flaxen Table-Cloth, one Towell, &amp; ſixteen Napkins; and the ſame Night they came again (even in the Night, like <hi>Robbers</hi>) and took away three Weaning-Calves, two Swine, &amp; two Weaning-Coults.</p>
+            <p>And it is to be noted, That the Ground of this grievious Per<g ref="char:EOLhyphen"/>ſecution at this time was, becauſe ſome that were Naturally rela<g ref="char:EOLhyphen"/>ted to theſe Informers and Perſecutors, were Convinced of Gods bleſſed Truth amongſt us at this time; ſo mightily doth the Devil Rage againſt God's Work in all Generations: Alſo, it is to be noted, That after a certain time, that they had all theſe Goods in their Cuſtody, and made Money of moſt of them, they ſent ſome of them back again, yet of ſo little Value, that what remained in their Hands, which they ſold, was worth 26l. for the Fine of 20l. Another chief cauſe of this great Suffering was the Endeared Love of my Heart to the Well-being of the Souls of my Relations and Friends; it being upon me to invite ſeveral of them to a Meeting, to the Marriage of my Daughter; at which Meeting it pleaſed the Lord to touch and to open ſome of their Hearts, as he did in former dayes the Heart of <hi>Lidea,</hi> and gave them an inward Senſe of his bleſſed Truth; at which the Devil was Angry, and ſtirred up his Inſtruments to perſecute me, and others of God's People; and what was in former dayes ſpoken of, came to be ſulfilled, <hi>That the Father ſhould be againſt Son, Son againſt Father, and Brother againſt Brother;</hi> and that upon this occaſion my half Brother, who was Brother unto me by Mo<g ref="char:EOLhyphen"/>ther, not by Father, was at the Meeting, where one of his Daughters (with ſeveral others) were Convinced of the Eternal Truth of God; at which my ſaid Brother was ſo filled, that he
+<pb n="6" facs="tcp:93288:4"/>brake the bands of Natural Affection, as well as <hi>Chriſtianity,</hi> and the royal Law of God, which is, <hi>To do unto all as they would be done by;</hi> and turned Informer againſt me, &amp; others; and that which ag<g ref="char:EOLhyphen"/>gravates the thing almoſt beyond any parrallel, is, that my afore<g ref="char:EOLhyphen"/>ſaid Brother did not only Inform againſt me, but againſt his own Daughter, and againſt his Daughter in Law, his Son's Wife, (who in her Faithfulneſs doth remain unto this Day, notwithſtan<g ref="char:EOLhyphen"/>ding the many Hardſhips and Tryals ſhe hath undergone for the Truth's ſake, of which our God in his Love hath made his a Par<g ref="char:EOLhyphen"/>taker; notwithſtanding ſhe hath been nail'd up cloſe from a Mee<g ref="char:EOLhyphen"/>ting) who were both Fined upon his, and his Son in Law's Informa<g ref="char:EOLhyphen"/>tion. Alſo, it is to be noted, That upon my Knowledge that my ſaid Brother was to turn <hi>Informer</hi> to get Money by it, it was in my Heart, in the Aboundings of Love, rather than he ſhould take ſuch a Reproachful Trade upon him, which is a ſhame unto all ſober People; I ſay it was in my Heart to go unto him, not in any Fear that I had upon me, as to what he could do, but to pre<g ref="char:EOLhyphen"/>vent or take away the Occaſion that might induce him thereto, and proffer him, <hi>Either to lend or give him Money, if he had need, either then, or at other times:</hi> Whereupon he was filled with Wrath and Madneſs, that he did Unnaturally abuſe and ſtrike me upon the bare Head, and other places, although he had no Re<g ref="char:EOLhyphen"/>ſiſtance, but a Willingneſs the Lord had wrought in me, that as I was Smitten on the one Cheek, to turn alſo the other; which was then in true Exerciſe of Patience done, bleſſed be the Lord. This Information being given by my ſaid Brother-in-Law, <hi>Tho<g ref="char:EOLhyphen"/>mas Cooke,</hi> and <hi>Henry Hurſt,</hi> his Son-in-Law, unto <hi>William Wood,</hi> Warden or Chief Magiſtrate of the Corporation of <hi>Sutton-Co<g ref="char:EOLhyphen"/>field,</hi> within <hi>Warwick</hi>-ſhire, who upon this Information given, did iſſue forth a Warrant to the Conſtable to make Diſtreſs of the Perſons Goods informed againſt: the Conſtable, <hi>Thomas Free<g ref="char:EOLhyphen"/>man,</hi> and the reſt concerned in making a Diſtreſs, ſeeming un<g ref="char:EOLhyphen"/>willing to meddle, yet being threatned by the ſaid Warden, <hi>That if they did it not, they muſt Pay the Fines themſelves,</hi> the ſaid Con<g ref="char:EOLhyphen"/>ſtable, <hi>Thomas Freeman</hi> and <hi>Robert Rogerſon,</hi> and their Co-part<g ref="char:EOLhyphen"/>ners hardned their Hearts, and with great Eagerneſs perſecuted, and ſought after their Prey, and with Cruelty made Spoil and Ha<g ref="char:EOLhyphen"/>vock of the Goods, as is here inſerted in Particulars as followeth.</p>
+            <pb n="7" facs="tcp:93288:4"/>
+            <p>Theſe Diſtreſſes as followeth were made by the Officers of <hi>Carworth; John Mayah</hi> Conſtable, <hi>James Harbey</hi> of <hi>Minworth,</hi> Head-borow in the ſame Pariſh, <hi>Thomas Freeman</hi> Conſtable of <hi>Sutton-Cofield,</hi> and <hi>Robert Rogerſon,</hi> Over-ſeer of the ſame Town, who ſought after their Prey with great Eagerneſs and much Cruelty</p>
+            <p>Alſo, for the aforeſaid Meeting was taken from <hi>Edw. Chande<g ref="char:EOLhyphen"/>ler</hi> for a Fine for himſelf and his Wife, for 30 s. Fine, was taken one Mare and a Colt worth 5 l. which they ſold for 3l. 19s. and kept 1s. for ſelling the Mare, and returned ſome of the Un<g ref="char:EOLhyphen"/>dervalue again.</p>
+            <p>Alſo, for the ſame two Meetings, they took from <hi>John Swift</hi> of <hi>Cardworth</hi> for a Fine of 15s. a Feeding-Cow, worth about 55s. which they ſold for 44s. returned him only ſome of that again, as alſo keeping 1 s. for ſelling the Cow.</p>
+            <p>Alſo, for the aforeſaid Meeting, and another, was taken from <hi>Robert Gueſt</hi> of <hi>Minworth,</hi> for 15 s. Fine, one great Brew<g ref="char:EOLhyphen"/>ing-Kettle, and ſix great Pewter-diſhes, which was well worth betwixt 30, &amp; 40 s.</p>
+            <p>Alſo, for the two Meetings aforeſaid was taken from <hi>Margaret Wolley,</hi> for a Fine of 15s. one Set of Curtains and Vallans, one Blanket, one Warming-Pan, &amp; ſome Pewter, worth about 1l. 10s.</p>
+            <p>Alſo, for the afore-ſaid two Meetings was taken from <hi>Thomas Hargrave</hi> of <hi>Minworth,</hi> a poor man, for a Fine of 15s. was taken Braſs worth 1l. 7s.</p>
+            <p>Alſo, for the Firſt Meeting was taken from <hi>Anne Meakings,</hi> a poor Widdow in <hi>Minworth,</hi> that hath four ſmall Children, and little to live upon but what ſhe laboureth hard for, was, for a Fine of 5s. taken one Coverlet and three Pewter-diſhes.</p>
+            <p>Alſo, for the ſame two Meetings was taken from <hi>Richard Willſon</hi> of <hi>Colſhil</hi> for 15s. Fine, Braſs worth about 1l. 10s.</p>
+            <p>Alſo, for the firſt Meeting they took from <hi>Abraham Jordan</hi> of <hi>Wigginſhill</hi> in the Pariſh of <hi>Sutton-Cofield,</hi> for a Fine of 15s. for himſelf, his Wife and Son, 16. Ells and a half of Tear of Hempen Cloath.</p>
+            <pb n="8" facs="tcp:93288:5"/>
+            <p>Alſo, for the firſt Meeting before-mentioned, they took from <hi>Thomas Sharrat</hi> of <hi>Wiſhaw,</hi> for 10s. Fine, for himſelf and his Wife, one great Brewing Kettle, and one leſſer Kettle, and one Pewter-diſh, worth in all 26s. returned only the leſſer Kettle, and the Pewter-diſh, to the value of 6s.</p>
+            <p>Alſo, for the firſt Meeting before-mentioned they took from <hi>Jone Warde</hi> of <hi>Graves</hi> in <hi>Sutton</hi>-Pariſh, one Kettle worth 8, or 9s. for a Fine of 5s.</p>
+            <p>This is a True and Faithful Account (in ſhort) of the Suffer<g ref="char:EOLhyphen"/>ings, both of my Self and other Friends, who have, and yet may Suffer in Body and Eſtate for the Teſtimony of Truth, and Sake of Chriſt Jeſus, whoſe Saving Health is this day known, <hi>who came to ſave his People From their Sins,</hi> as is recorded in the Scriptures: And again, <hi>He that departeth from Iniquity maketh himſelf a Prey:</hi> But I would have none to ſtumble at the Truth, or be offended thereat, for it is by the God of our Salvation that they that will live Godly in Chriſt Jeſus muſt ſuffer Perſecution.</p>
+            <closer>
+               <dateline>
+                  <hi>Wiſhaw</hi> in <hi>Warwick-ſhire,</hi> 
+                  <date>the 1ſt Mon. 1678.</date> This is given forth in the feeling of the Preſence of the living God,</dateline>
+               <signed>by one who deſireth the good of all my Fellow-Creatures. <hi>Richard Sommerland.</hi>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:93288:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
